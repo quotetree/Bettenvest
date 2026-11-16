@@ -5,9 +5,3 @@
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 }
-
-input,
-select,
-textarea {
-  font: inherit;
-}
